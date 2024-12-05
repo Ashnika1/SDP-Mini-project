@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shop Website</title>
+    <link rel="stylesheet" href="style3.css">
+</head>
+<body>
+    <!-- Header Section -->
+     <div class="img"></div>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="sdp mini.html"><h2>Home</h2></a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <h1>Welcome to Our Shop</h1><br>
+        <p>We offer a wide range of products at affordable prices.</p><br>
+        
+    </section>
+</div>
+    <!-- Products Section -->
+    <section class="products">
+        <h2>Our Products</h2>
+        <div class="product-grid">
+            <div class="product">
+                <img src="https://www.thoughtco.com/thmb/mFWK6HRnkqhEZ__q8uot-QeizMg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Hershey-56b007823df78cf772cb32d0.jpg" alt="Product 1">
+                <h3>Product 1</h3>
+                
+                <button>Add to Cart</button>
+            </div>
+            <div class="product">
+                <img src="https://www.mashed.com/img/gallery/at-last-kinders-famous-chocolate-bar-will-debut-in-the-us/l-intro-1684965410.jpg" alt="Product 2">
+                <h3>Product 2</h3>
+                
+                <button>Add to Cart</button>
+            </div>
+            <div class="product">
+                <img src="https://th.bing.com/th/id/OIP.5IN1g-PTdGRsNDFq-DznZQHaHa?rs=1&pid=ImgDetMain" alt="Product 3">
+                <h3>Product 3</h3>
+                
+                <button>Add to Cart</button>
+            </div>
+            <div class="product">
+                <img src="https://thumbs.dreamstime.com/b/three-bars-toblerone-chocolate-poznan-pol-mar-three-bars-toblerone-swiss-chocolate-brand-owned-us-confectionery-company-143023805.jpg" alt="Product 4">
+                <h3>Product 4</h3>
+                
+                <button>Add to Cart</button>
+            </div>
+            <div class="product">
+                <img src="https://fullstop360.com/blog/wp-content/uploads/2021/11/mm-Marketing-Campaign-Phrases.jpg" alt="Product 5">
+                <h3>Product 5</h3>
+                
+                <button>Add to Cart</button>
+            </div>
+            <div class="product">
+                <img src="https://funtheory.ir/uploads/image/rootimage/1553/838ee3b758aaf1a36cbe1cee810e9d7a.jpeg" alt="Product 6">
+                <h3>Product 6</h3>
+                <button>Add to Cart</button>
+            </div>
+            <div class="product">
+                <img src="https://th.bing.com/th/id/OIP.2-PkTIJgssmlJR0t4hTWwwHaE8?rs=1&pid=ImgDetMain" alt="Product 6">
+                <h3>Product 7</h3>
+                
+                <button>Add to Cart</button>
+            </div>
+            <div class="product">
+                <img src="https://th.bing.com/th/id/OIP.wCI2OtH53HGq3HGrMP6b5wHaE8?rs=1&pid=ImgDetMain" alt="Product 6">
+                <h3>Product 8</h3>
+                
+                <button>Add to Cart</button>
+            </div>
+            <div class="product">
+                <img src="https://img.resized.co/irishpostcouk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLmlyaXNocG9zdC5jby51a1xcXC91cGxvYWRzXFxcLzIwMTlcXFwvMDZcXFwvMjUxNDIwMjdcXFwvY2FkYnVyeS1kYWlyeS1taWxrLmpwZ1wiLFwid2lkdGhcIjoxMTQ2LFwiaGVpZ2h0XCI6NjEzLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuaXJpc2hwb3N0LmNvbVxcXC9pXFxcL25vLWltYWdlLnBuZ1wifSIsImhhc2giOiIwNDgxZmNiYzRlMmE4MTM2MTdmNTJhMTI4YzEwYzMwOTI4MDc2YjEyIn0=/cadbury-dairy-milk.jpg" alt="Product 6">
+                <h3>Product 9</h3>
+                
+                <button>Add to Cart</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="about">
+        <h2>About Us</h2>
+        <p>We are a team of passionate individuals who are dedicated to providing the best products and services to our customers.</p>
+    </section>
+
+    
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; choco</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
