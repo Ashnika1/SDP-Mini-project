@@ -106,7 +106,7 @@ ul li a:hover{
 .content .cn{
     width: 160px;
     height: 40px;
-    background: orangered;
+    background: rgb(205, 55, 0);
     border: none;
     margin-bottom: 10px;
     margin-left: 20px;
@@ -125,7 +125,7 @@ ul li a:hover{
     background-color: white;
 }
 .content span{
-    color:orangered;
+    color:rgb(201, 54, 0);
     font-size: 60px;
 }
 .form{
@@ -184,11 +184,11 @@ ul li a:hover{
 }
 .btnn:hover{
     background: white;
-    color: orangered;
+    color: rgb(203, 54, 0);
 }
 .btnn a{
     text-decoration: none;
-    color: black;
+    color: rgb(136, 18, 18);
     font-weight: bold;
 }
 .form .link{
@@ -199,7 +199,7 @@ ul li a:hover{
 }
 .form .link a{
     text-decoration: none;
-    color:orangered;
+    color:rgb(210, 56, 0);
 }
 .liw{
     padding-top:15px;
